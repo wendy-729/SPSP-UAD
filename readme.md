@@ -1,4 +1,4 @@
-Datasets from Software project scheduling under activity duration uncertainty (working paper)
+Datasets from Hongbo Li, Hanyu Zhu, Linwen Zheng, and Fang Xie, (2022, working paper), Software project scheduling under activity duration uncertainty.
 
 Network structure data generated using Rangen for instances with different OS values.
 - OS_0.3: 20 instances with 7, 12 and 22 activities, respectively. The OS of these instances is 0.3.
