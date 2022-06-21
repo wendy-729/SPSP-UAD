@@ -1,2 +1,0 @@
-Folder result_OS_0.3, result_OS_0.5, result_OS_0.7 are the project network structure data for all instances under different OS value
-result_data.xlsx  is the processed data, containing the number of skills per activity, the skills owned by each employee, the performance pay, the workload and the duration of the activity under different scenarios
